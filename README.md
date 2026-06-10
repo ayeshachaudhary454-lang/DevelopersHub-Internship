@@ -1,6 +1,6 @@
 # DevelopersHub Corporation - Data Science & Analytics Internship
 
-## Intern: Ayesha Chaudhary
+## Intern: Ayesha Sarwar
 ## Due Date: 26th June 2026
 
 ---
